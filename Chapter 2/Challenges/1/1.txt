@@ -1,0 +1,9 @@
+Legal: x, name, age, v_name
+Illegal: 4x, 20name, name's, n?t
+
+Good: name -> It is short and descriptive
+      high_score -> Ditto
+
+Bad: _name -> Beginning with an underscore has special meaning in Python
+     name9034729874 -> Unnecessary numbers at the end
+     value_of_the_previous_sum -> Too long
