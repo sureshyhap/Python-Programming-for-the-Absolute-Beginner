@@ -1,0 +1,37 @@
+An Episode You Can't Refuse
+Readlines()
+What does readlines() do?
+5
+Read characters from a file
+Read a line from a file
+Read all lines from a file and return a list
+Prints part of a file
+3
+All lines are read with readlines()
+Pickle.dump()
+What does pickle.dump(sequence, file_object)
+4
+It removes sequence from the file_object
+It reads sequence from file_object
+It writes sequence to file_object
+None of the above
+3
+It writes to the file with dump
+Shelve return value
+What type of sequence does shelve.open() return?
+7
+Tuple
+List
+Set
+Dictionary
+4
+A dictionary is returned from shelve.open()
+Exception default message
+How do you make use an exception's argument?
+2
+except ERRORNAME as e:
+except ERRORNAME is e:
+except ERRORNAME of e:
+except ERRORNAME in e:
+1
+The first option is how you use an exception's associated value
